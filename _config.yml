@@ -5,4 +5,3 @@ show_buttons: true
 page:
  subpage1: ./index.html
  subpage2: ./resume.html
- subpage3: ./page2.html
